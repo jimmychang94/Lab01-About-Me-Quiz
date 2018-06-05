@@ -1,0 +1,11 @@
+C:\Users\jimmy\codefellows\401\Lab\Lab01-About-Me-Quiz\Lab01-About-Me-Quiz\Lab01-About-Me-Quiz\bin\Debug\netcoreapp2.0\Lab01-About-Me-Quiz.deps.json
+C:\Users\jimmy\codefellows\401\Lab\Lab01-About-Me-Quiz\Lab01-About-Me-Quiz\Lab01-About-Me-Quiz\bin\Debug\netcoreapp2.0\Lab01-About-Me-Quiz.runtimeconfig.json
+C:\Users\jimmy\codefellows\401\Lab\Lab01-About-Me-Quiz\Lab01-About-Me-Quiz\Lab01-About-Me-Quiz\bin\Debug\netcoreapp2.0\Lab01-About-Me-Quiz.runtimeconfig.dev.json
+C:\Users\jimmy\codefellows\401\Lab\Lab01-About-Me-Quiz\Lab01-About-Me-Quiz\Lab01-About-Me-Quiz\bin\Debug\netcoreapp2.0\Lab01-About-Me-Quiz.dll
+C:\Users\jimmy\codefellows\401\Lab\Lab01-About-Me-Quiz\Lab01-About-Me-Quiz\Lab01-About-Me-Quiz\bin\Debug\netcoreapp2.0\Lab01-About-Me-Quiz.pdb
+C:\Users\jimmy\codefellows\401\Lab\Lab01-About-Me-Quiz\Lab01-About-Me-Quiz\Lab01-About-Me-Quiz\obj\Debug\netcoreapp2.0\Lab01-About-Me-Quiz.csprojAssemblyReference.cache
+C:\Users\jimmy\codefellows\401\Lab\Lab01-About-Me-Quiz\Lab01-About-Me-Quiz\Lab01-About-Me-Quiz\obj\Debug\netcoreapp2.0\Lab01-About-Me-Quiz.csproj.CoreCompileInputs.cache
+C:\Users\jimmy\codefellows\401\Lab\Lab01-About-Me-Quiz\Lab01-About-Me-Quiz\Lab01-About-Me-Quiz\obj\Debug\netcoreapp2.0\Lab01-About-Me-Quiz.AssemblyInfoInputs.cache
+C:\Users\jimmy\codefellows\401\Lab\Lab01-About-Me-Quiz\Lab01-About-Me-Quiz\Lab01-About-Me-Quiz\obj\Debug\netcoreapp2.0\Lab01-About-Me-Quiz.AssemblyInfo.cs
+C:\Users\jimmy\codefellows\401\Lab\Lab01-About-Me-Quiz\Lab01-About-Me-Quiz\Lab01-About-Me-Quiz\obj\Debug\netcoreapp2.0\Lab01-About-Me-Quiz.dll
+C:\Users\jimmy\codefellows\401\Lab\Lab01-About-Me-Quiz\Lab01-About-Me-Quiz\Lab01-About-Me-Quiz\obj\Debug\netcoreapp2.0\Lab01-About-Me-Quiz.pdb
